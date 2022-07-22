@@ -16,7 +16,7 @@ ln -s ~/.shared_config/nvim_config/nvim
 ```
 
 #### Install Packages
-This config uses [packer]('https://github.com/wbthomason/packer') to install and manage packages.
+This config uses [`packer`](https://github.com/wbthomason/packer) to install and manage packages.
 
 To run the installer for the first time run:
 ```sh
